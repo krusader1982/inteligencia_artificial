@@ -6,6 +6,10 @@ Repositório destinado as atividades da Disciplina de Inteligência Artificial d
 
 👀 [Acesse o resultado](https://github.com/krusader1982/inteligencia_artificial/blob/master/atividade4/arvore_decisao.ipynb)
 
-## Atividade 5 - Árvore de decisão usando Python
+## Atividade 5 - Regressão Linear usando Python
 
 👀 [Acesse o resultado](https://github.com/krusader1982/inteligencia_artificial/blob/master/atividade5/regressao_linear.ipynb)
+
+## Atividade 6 - Agrupamento usando Python
+
+👀 [Acesse o resultado](https://github.com/krusader1982/inteligencia_artificial/blob/master/atividade6/agrupamento.ipynb)
