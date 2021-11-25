@@ -2,6 +2,20 @@
 
 Repositório destinado as atividades da Disciplina de Inteligência Artificial da FATEC/SJC - 6 Semestre
 
+- Inicializando ambiente virtual
+
+```
+ python -m venv venv
+ . venv/Scripts/Activate.ps1 (Powershell)
+ . venv/Scripts/Activate.ps1 (CMD)
+```
+
+- Instalação das dependências
+
+```
+pip install -r requirements.txt
+```
+
 ## Atividade 4 - Árvore de decisão usando Python
 
 👀 [Acesse o resultado](https://github.com/krusader1982/inteligencia_artificial/blob/master/atividade4/arvore_decisao.ipynb)
